@@ -1,3 +1,4 @@
 /.idea/
 /target/
-/camel-spring-starter.iml
+/camel-simple-app.iml
+/outbox/
